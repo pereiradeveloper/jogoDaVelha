@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 <p align="center">
-   <img width ="469" height"300" src="lib/jogo da velha gif.gif>
+   <img width ="469" height"300" src="lib/jogo da velha gif.gif">
 </p>
 
 A few resources to get you started if this is your first Flutter project:
